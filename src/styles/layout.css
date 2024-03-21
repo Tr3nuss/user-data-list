@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.link-style-active {
+  font-weight: 700;
+  font-size: 24px;
+  color: gray;
+  text-decoration: none;
+}
